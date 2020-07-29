@@ -1,0 +1,16 @@
+{
+  "name": "heap",
+  "version": "0.0.1",
+  "description": "Heap data structure implementations",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "heap",
+    "data",
+    "structure"
+  ],
+  "author": "Evgeni Tsvetanov",
+  "license": "ISC"
+}
